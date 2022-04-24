@@ -18,6 +18,9 @@ Predict whether a patient has risk developing coronary heart disease.
 * Outlier Detection
 * Modelling and Tuning Machine Learning Model
 
+## Results
+![image](https://user-images.githubusercontent.com/91387390/164971605-972f555b-e057-45df-a94a-e9b1b4f1a4b9.png)
+
 
 ### References
 * (PDF) Improvement of heart attack prediction by the feature selection methods. (2018, January 1). ResearchGate. https://www.researchgate.net/publication/322956561_Improvement_of_heart_attack_prediction_by_the_feature_selection_methods
